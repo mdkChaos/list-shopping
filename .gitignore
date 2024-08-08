@@ -1,0 +1,9 @@
+# Ігнорувати папку з налаштуваннями IDE (PHPStorm)
+.idea/
+
+# Ігнорувати папку з налаштуваннями VS Code
+.vscode/
+
+# Ігнорувати Docker кеш файли та локальні перевизначення
+docker-compose.override.yml
+.docker/
