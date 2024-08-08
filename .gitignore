@@ -7,3 +7,5 @@
 # Ігнорувати Docker кеш файли та локальні перевизначення
 docker-compose.override.yml
 .docker/
+
+tmp/
